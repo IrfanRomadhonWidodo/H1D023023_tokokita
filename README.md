@@ -99,10 +99,9 @@ Screenshot aplikasi ditempatkan di folder `assets/images/`.
 
 | Image 1 | Image 2 | Image 3 |
 | :---: | :---: | :---: |
-| !(assets/image1.jpeg) | !(assets/image2.jpeg) | !(assets/image3.jpeg) |
+| ![](/assets/images/image1.jpeg) | ![](/assets/images/image2.jpeg) | ![](/assets/images/image3.jpeg) |
 | **Image 4** | **Image 5** | **Image 6** |
-| !(assets/image4.jpeg) | !(assets/image5.jpeg) | !(assets/image6.jpeg) |
-
+| ![](/assets/images/image4.jpeg) | ![](/assets/images/image5.jpeg) | ![](/assets/images/image6.jpeg) |
 ---
 
 ## ▶️ Cara Menjalankan Aplikasi
